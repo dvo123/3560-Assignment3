@@ -9,6 +9,5 @@ public class Customer {
     }
 
     public void makeReservation(Reservation reservation) {
-        // Implementation details
     }
 }

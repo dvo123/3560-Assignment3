@@ -16,10 +16,10 @@ class FlightSeat {
     }
 
     public void setPaymentPlan(double amount, int numPayments) {
-        // Implementation details
+
     }
 
     public void makePayment(double amount) {
-        // Implementation details
+
     }
 }
